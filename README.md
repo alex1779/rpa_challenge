@@ -1,4 +1,4 @@
-# Basic Python only robot
+# Basic Python robot
 
 Get started with just Python.
 
